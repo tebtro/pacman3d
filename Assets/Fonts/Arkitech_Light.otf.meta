@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 285d74164db153e49b2bce367e544ed4
+timeCreated: 1539937714
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arkitech
+  fontNames:
+  - Arkitech
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
